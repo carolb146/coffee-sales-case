@@ -6,3 +6,5 @@ data/
 *.pyc
 .DS_Store
 *.csv
+.venv_nestle/
+exploration/04_model_refit.ipynb
